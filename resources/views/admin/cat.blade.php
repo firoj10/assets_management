@@ -257,7 +257,7 @@
                     <!-- <div class="form-group">
                       <label for="exampleInputEmail1">Email address</label>
                       <input type="email" class="form-control" name='cat_email' id="exampleInputEmail1" placeholder="Email">
-                    </div>
+                    </div> hellow
                     <div class="form-group">
                       <label for="exampleInputPassword1">Password</label>
                       <input type="password" class="form-control" name='cat_password' id="exampleInputPassword1" placeholder="Password">
